@@ -84,7 +84,7 @@ $(document).ready(function() {
 
         if (formValid) {
             // Display dynamic information
-            var dynamicInfo = "<h3><strong>Thank you! You're account is all for: </h3>" +
+            var dynamicInfo = "<h3><strong>Thank you! You're account is all set for: </h3>" +
                               "<p><strong>First Name:</strong> " + $('#firstName').val() + "</p>" +
                               "<p><strong>Last Name:</strong> " + $('#lastName').val() + "</p>" +
                               "<p><strong>Email:</strong> " + $('#cEmail').val() + "</p>" +
